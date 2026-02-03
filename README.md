@@ -41,6 +41,3 @@ A phishing attack simulation was performed using GoPhish. A fake email template 
 This project is strictly for educational purposes. No real users or real email accounts were targeted.
 
 ---
-
-### 👩‍💻 Author
-Shivita
